@@ -118,8 +118,4 @@ describe('linkify-html', function () {
 		);
 		expect(htmlOptions.linkifiedAlt).to.contain(linkified);
 	});
-
-
-
-
 });
